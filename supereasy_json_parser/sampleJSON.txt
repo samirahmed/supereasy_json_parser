@@ -1,0 +1,218 @@
+{
+   "DefinitionSource" : "",
+   "Heading" : "Scala",
+   "RelatedTopics" : [
+      {
+         "Result" : "<a href=\"http://duckduckgo.com/Scala_(programming_language)\">Scala (programming language)</a>, a functional/object-oriented programming language",
+         "Icon" : {
+            "URL" : "http://i.duck.co/i/e5afa63f.png",
+            "Height" : "",
+            "Width" : ""
+         },
+         "FirstURL" : "http://duckduckgo.com/Scala_(programming_language)",
+         "Text" : "Scala (programming language), a functional/object-oriented programming language"
+      },
+      {
+         "Result" : "Former name of <a href=\"http://duckduckgo.com/Escala_(group)\">Escala</a>, an electronic string quartet",
+         "Icon" : {
+            "URL" : "http://i.duck.co/i/www.escalaofficial.com.ico",
+            "Height" : 16,
+            "Width" : 16
+         },
+         "FirstURL" : "http://duckduckgo.com/Escala_(group)",
+         "Text" : "Former name of Escala, an electronic string quartet"
+      },
+      {
+         "Result" : "<a href=\"http://duckduckgo.com/La_Scala\">La Scala</a>, an opera house in Milan, Italy",
+         "Icon" : {
+            "URL" : "http://i.duck.co/i/2b37fd17.gif",
+            "Height" : "",
+            "Width" : ""
+         },
+         "FirstURL" : "http://duckduckgo.com/La_Scala",
+         "Text" : "La Scala, an opera house in Milan, Italy"
+      },
+      {
+         "Result" : "<a href=\"http://duckduckgo.com/american_Library_Association\">SCALA</a>, the Student Chapter of the American Library Association",
+         "Icon" : {
+            "URL" : "http://i.duck.co/i/3791fb69.png",
+            "Height" : "",
+            "Width" : ""
+         },
+         "FirstURL" : "http://duckduckgo.com/american_Library_Association",
+         "Text" : "SCALA, the Student Chapter of the American Library Association"
+      },
+      {
+         "Result" : "<a href=\"http://duckduckgo.com/FF_Scala\">FF Scala</a> and <a href=\"http://duckduckgo.com/?q=FF Scala Sans\">FF Scala Sans</a>, typefaces by Dutch typeface designer Martin Majoor",
+         "Icon" : {
+            "URL" : "http://i.duck.co/i/acf459eb.png",
+            "Height" : "",
+            "Width" : ""
+         },
+         "FirstURL" : "http://duckduckgo.com/FF_Scala",
+         "Text" : "FF Scala and FF Scala Sans, typefaces by Dutch typeface designer Martin Majoor"
+      },
+      {
+         "Result" : "<a href=\"http://duckduckgo.com/Scala_Sancta\">Scala Sancta</a> or Holy Stairs, a staircase in Rome, Italy",
+         "Icon" : {
+            "URL" : "http://i.duck.co/i/29ebd823.jpg",
+            "Height" : "",
+            "Width" : ""
+         },
+         "FirstURL" : "http://duckduckgo.com/Scala_Sancta",
+         "Text" : "Scala Sancta or Holy Stairs, a staircase in Rome, Italy"
+      },
+      {
+         "Topics" : [
+            {
+               "Result" : "<a href=\"http://duckduckgo.com/Scala_%26_Kolacny_Brothers\">Scala & Kolacny Brothers</a>, a Belgian girls' choir",
+               "Icon" : {
+                  "URL" : "http://i.duck.co/i/5c11a021.jpg",
+                  "Height" : "",
+                  "Width" : ""
+               },
+               "FirstURL" : "http://duckduckgo.com/Scala_%26_Kolacny_Brothers",
+               "Text" : "Scala & Kolacny Brothers, a Belgian girls' choir"
+            },
+            {
+               "Result" : "<i><a href=\"http://duckduckgo.com/La_Scala_(album)\">La Scala</a></i>, an album by <a href=\"http://duckduckgo.com/?q=Keith Jarrett\">Keith Jarrett</a>",
+               "Icon" : {
+                  "URL" : "http://i.duck.co/i/d0afca13.jpg",
+                  "Height" : "",
+                  "Width" : ""
+               },
+               "FirstURL" : "http://duckduckgo.com/La_Scala_(album)",
+               "Text" : "La Scala, an album by Keith Jarrett"
+            }
+         ],
+         "Name" : "Music"
+      },
+      {
+         "Topics" : [
+            {
+               "Result" : "<a href=\"http://duckduckgo.com/Scala%2C_Inc\">Scala, Inc</a>, producer of multimedia computer software for video production, presentations and digital signage",
+               "Icon" : {
+                  "URL" : "http://i.duck.co/i/3c833e1f.png",
+                  "Height" : "",
+                  "Width" : ""
+               },
+               "FirstURL" : "http://duckduckgo.com/Scala%2C_Inc",
+               "Text" : "Scala, Inc, producer of multimedia computer software for video production, presentations and digital signage"
+            },
+            {
+               "Result" : "<a href=\"http://duckduckgo.com/Scala_(program)\">Scala (program)</a>, a program for creating musical scales",
+               "Icon" : {
+                  "URL" : "",
+                  "Height" : "",
+                  "Width" : ""
+               },
+               "FirstURL" : "http://duckduckgo.com/Scala_(program)",
+               "Text" : "Scala (program), a program for creating musical scales"
+            }
+         ],
+         "Name" : "Computing"
+      },
+      {
+         "Topics" : [
+            {
+               "Result" : "<a href=\"http://duckduckgo.com/Scala_(club)\">Scala (club)</a>, a nightclub in London, UK",
+               "Icon" : {
+                  "URL" : "http://i.duck.co/i/4625f5b5.jpg",
+                  "Height" : "",
+                  "Width" : ""
+               },
+               "FirstURL" : "http://duckduckgo.com/Scala_(club)",
+               "Text" : "Scala (club), a nightclub in London, UK"
+            },
+            {
+               "Result" : "<a href=\"http://duckduckgo.com/Scala_Theatre\">Scala Theatre</a>, a theatre in London, UK",
+               "Icon" : {
+                  "URL" : "",
+                  "Height" : "",
+                  "Width" : ""
+               },
+               "FirstURL" : "http://duckduckgo.com/Scala_Theatre",
+               "Text" : "Scala Theatre, a theatre in London, UK"
+            }
+         ],
+         "Name" : "Entertainment Establishments"
+      },
+      {
+         "Topics" : [
+            {
+               "Result" : "<a href=\"http://duckduckgo.com/Scala%2C_Campania\">Scala, Campania</a>, a village on the Amalfi Coast in Italy",
+               "Icon" : {
+                  "URL" : "",
+                  "Height" : "",
+                  "Width" : ""
+               },
+               "FirstURL" : "http://duckduckgo.com/Scala%2C_Campania",
+               "Text" : "Scala, Campania, a village on the Amalfi Coast in Italy"
+            },
+            {
+               "Result" : "<a href=\"http://duckduckgo.com/Scala_(Saxony)\">Scala (Saxony)</a>, a part of German community <a href=\"http://duckduckgo.com/?q=Kittlitz\">Kittlitz</a>",
+               "Icon" : {
+                  "URL" : "",
+                  "Height" : "",
+                  "Width" : ""
+               },
+               "FirstURL" : "http://duckduckgo.com/Scala_(Saxony)",
+               "Text" : "Scala (Saxony), a part of German community Kittlitz"
+            }
+         ],
+         "Name" : "Places"
+      },
+      {
+         "Topics" : [
+            {
+               "Result" : "<a href=\"http://duckduckgo.com/Gia_Scala\">Gia Scala</a> (1934\u20131972), an actress",
+               "Icon" : {
+                  "URL" : "http://i.duck.co/i/3ab38fd3.jpg",
+                  "Height" : "",
+                  "Width" : ""
+               },
+               "FirstURL" : "http://duckduckgo.com/Gia_Scala",
+               "Text" : "Gia Scala (1934\u20131972), an actress"
+            },
+            {
+               "Result" : "<a href=\"http://duckduckgo.com/Nevio_Scala\">Nevio Scala</a> (born 1947), an Italian soccer coach",
+               "Icon" : {
+                  "URL" : "",
+                  "Height" : "",
+                  "Width" : ""
+               },
+               "FirstURL" : "http://duckduckgo.com/Nevio_Scala",
+               "Text" : "Nevio Scala (born 1947), an Italian soccer coach"
+            }
+         ],
+         "Name" : "People"
+      },
+      {
+         "Topics" : [
+            {
+               "Result" : "<a href=\"http://duckduckgo.com/Scala_(gastropod)\">Scala (gastropod)</a>, a genus of marine <a href=\"http://duckduckgo.com/?q=snail\">snail</a>.",
+               "Icon" : {
+                  "URL" : "",
+                  "Height" : "",
+                  "Width" : ""
+               },
+               "FirstURL" : "http://duckduckgo.com/Scala_(gastropod)",
+               "Text" : "Scala (gastropod), a genus of marine snail."
+            }
+         ],
+         "Name" : "Snails"
+      }
+   ],
+   "Type" : "D",
+   "Redirect" : "",
+   "DefinitionURL" : "",
+   "AbstractURL" : "http://en.wikipedia.org/wiki/Scala",
+   "Definition" : "",
+   "AbstractSource" : "Wikipedia",
+   "Image" : "",
+   "AbstractText" : "",
+   "Abstract" : "",
+   "AnswerType" : "",
+   "Answer" : "",
+   "Results" : []
+}
