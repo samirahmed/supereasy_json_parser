@@ -9,6 +9,12 @@ Designed to be the most simple way to extract data from JSON, the Super Easy JSO
 adapted from [Martin Odersky's][Programming in Scala] book and the more robust string parsing
 from [scala-json] by [Steve Jenson].
 
+## Values, Objects and Arrays
+
+- Objects are JSON objects and are represented by Scala Map(String, Any)
+- Arrays are JSON arrays and are represented by Scala List(Any)
+- Values are the data in JSON members {"key":"value"} and most often represented as Strings
+
 ## Super Easy Methods and examples
 
 #### Sample JSON File - rawjson.txt
@@ -45,22 +51,22 @@ After calling the parse(rawjson :String) method
 	getValue("type") 			returns "home" 
 	getValue("\"type\"")		returns	"home"
 	getValue("type",2) 			returns "fax"
-	getAllValues("type",2) 		returns List("home","fax")
+	getAllValues("type") 		returns List("home","fax")
 	getObject("address")		returns Map("streetAddress"->"21 2nd Street","city"->"New York","State"->"NY","postalCode"->"10021")
 	getArray("hometown")		returns List("Brooklyn", "New York")
 
 ## Licensing
 
-   Copyright 2011 Samir Ahmed
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+   		Copyright 2011 Samir Ahmed
+   		Licensed under the Apache License, Version 2.0 (the "License");
+   		you may not use this file except in compliance with the License.
+   		You may obtain a copy of the License at
+	
+       	http://www.apache.org/licenses/LICENSE-2.0
+		
+   		Unless required by applicable law or agreed to in writing, software
+   		distributed under the License is distributed on an "AS IS" BASIS,
+   		WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   		See the License for the specific language governing permissions and
+   		limitations under the License.
 
